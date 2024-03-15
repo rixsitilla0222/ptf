@@ -1201,7 +1201,7 @@ section .container {
 
 .fade-tilla {
   height: 400px;
-  border: 7px groove #1e48b8;
+  border: 8px double #1e48b8;
 }
 
 @media (max-width: 1400px) {
